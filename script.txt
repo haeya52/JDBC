@@ -1,0 +1,237 @@
+---------- MENU ---------
+
+1: View Table Contents
+2: Search by Movie ID
+3: Insert by Movie ID
+4: Exit the Program
+
+Enter your choice (1, 2, 3, 4): 
+1
+Would you like to see MOVIES Table? (Yes/No)
+Yes
+Would you like to see RATINGS Table? (Yes/No)
+No
+
+DISPLAYING MOVIES TABLE.
+
+
+---DISPLAYING MOVIES TABLE---
+
+Movie ID, Title, Language, Production Company, Production Country, Runtime, Release Date
+37, Across the Sea of Time, en, Sony New Technologies, United States of America, 51, 1995-10-20
+77, Nico Icon, en, Zweites Deutsches Fernsehen (ZDF), Ciak Filmproduktion, Bluehorse Films, Germany, United States of America, 70, 1995-02-18
+84, Last Summer in the Hamptons, en, null, null, 108, 1995-11-22
+83, Once Upon a Time... When We Were Colored, en, BET Pictures, United Image Entertainme, United States of America, 115, 1996-01-26
+59, The Confessional, fr, null, Canada, 100, 1995-09-29
+55, Georgia, en, Miramax Films, CiBy 2000, France, United States of America, 115, 1995-05-19
+53, Lamerica, it, null, Italy, France, Switzerland, 116, 1994-01-01
+73, Les Miserables, fr, Les Films 13, Canal+, TF1, France, 175, 1995-03-22
+99, Heidi Fleiss: Hollywood Madam, en, British Broadcasting Corporation (BBC), Westdeutscher Rundfunk (WDR), Canadian Broadcasting Corporation (CBC), Cinemax Reel Life, InPictures, Lafayette Films, United Kingdom, Canada, United States of America, Germany, 106, 1995-12-27
+96, A Midwinter's Tale, en, Castle Rock Entertainment, Midwinter Films, United Kingdom, 99, 1995-12-01
+35, Carrington, en, StudioCanal, Cinéa, Euston Films, Freeway Films, European Co-production Fund, Polygram Filmed Entertainment, Orsans Productions, France, United Kingdom, 121, 1995-11-08
+80, The White Balloon, fa, I.R.I.B. Channel 2, Ferdos Films, Iran, 85, 1995-01-01
+98, Shopping, en, Channel Four Films, United Kingdom, 105, 1994-12-06
+8, Tom and Huck, en, Walt Disney Pictures, United States of America, 97, 1995-12-22
+40, Cry, the Beloved Country, en, Miramax, Distant Horizon, Alpine Pty Limited, South Africa, 106, 1995-12-15
+38, It Takes Two, en, Dualstar Productions, Warner Bros., Rysher Entertainment, Orr & Cruickshank, United States of America, 101, 1995-11-17
+30, Shanghai Triad, zh, Ministère des Affaires Étrangères, Alpha Films, La Sept Cinéma, China, France, 108, 1995-04-30
+43, Restoration, en, Miramax Films, United States of America, 117, 1995-12-29
+78, The Crossing Guard, en, Miramax Films, United States of America, 111, 1995-11-15
+4, Waiting to Exhale, en, Twentieth Century Fox Film Corporation, United States of America, 127, 1995-12-22
+41, Richard III, en, British Screen, Mayfair Entertainment International, United Kingdom, United States of America, 104, 1995-12-29
+72, Kicking and Screaming, en, Castleberg Productions, Sandollar Productions, United States of America, 96, 1995-10-06
+13, Balto, en, Universal Pictures, Amblin Entertainment, Amblimation, United States of America, 78, 1995-12-22
+54, The Big Green, en, Walt Disney Pictures, Caravan Pictures, United States of America, 100, 1995-09-29
+74, Bed of Roses, en, New Line Cinema, Juno Pix, United States of America, 87, 1996-01-26
+64, Two If by Sea, en, Warner Bros., Morgan Creek Productions, United States of America, 96, 1996-01-12
+87, Dunston Checks In, en, Twentieth Century Fox Film Corporation, Joe Wizan/Todd Black, United States of America, 88, 1996-01-12
+61, Eye for an Eye, en, Paramount Pictures, United States of America, 101, 1996-01-12
+28, Persuasion, en, BBC Films, United Kingdom, France, 104, 1995-09-27
+26, Othello, en, Columbia Pictures, Castle Rock Entertainment, Italy, 123, 1995-12-15
+3, Grumpier Old Men, en, Warner Bros., Lancaster Gate, United States of America, 101, 1995-12-22
+24, Powder, en, Caravan Pictures, Hollywood Pictures, United States of America, 111, 1995-10-27
+88, Black Sheep, en, Paramount Pictures, United States of America, 87, 1996-02-01
+66, Lawnmower Man 2: Beyond Cyberspace, en, New Line Cinema, United States of America, 92, 1996-01-12
+20, Money Train, en, Columbia Pictures, United States of America, 103, 1995-11-21
+52, Mighty Aphrodite, en, Miramax Films, Magnolia Pictures, United States of America, 95, 1995-09-13
+42, Dead Presidents, en, Caravan Pictures, Underworld Entertainment, Hollywood Pictures, United States of America, 119, 1995-10-06
+60, The Indian in the Cupboard, en, Paramount Pictures, Columbia Pictures Corporation, The Kennedy/Marshall Company, United States of America, 96, 1995-07-14
+93, Vampire in Brooklyn, en, Paramount Pictures, United States of America, 100, 1995-10-26
+12, Dracula: Dead and Loving It, en, Columbia Pictures, Castle Rock Entertainment, Enigma Pictures, France, United States of America, 88, 1995-12-22
+5, Father of the Bride Part II, en, Sandollar Productions, Touchstone Pictures, United States of America, 106, 1995-02-10
+46, How To Make An American Quilt, en, Universal Pictures, Amblin Entertainment, United States of America, 116, 1995-10-06
+7, Sabrina, en, Paramount Pictures, Scott Rudin Productions, Mirage Enterprises, Sandollar Productions, Constellation Entertainment, Worldwide, Mont Blanc Entertainment GmbH, Germany, United States of America, 127, 1995-12-15
+71, Fair Game, en, Silver Pictures, Warner Bros., United States of America, 91, 1995-11-03
+69, Friday, en, New Line Cinema, United States of America, 91, 1995-04-26
+63, Don't Be a Menace to South Central While Drinking Your Juice in the Hood, en, Miramax Films, Island Pictures, Ivory Way Productions, United States of America, 89, 1996-01-12
+86, White Squall, en, Hollywood Pictures, Largo Entertainment, Scott Free Productions, United States of America, 129, 1996-02-02
+48, Pocahontas, en, Walt Disney Pictures, Walt Disney Feature Animation, United States of America, 81, 1995-06-14
+100, City Hall, en, Columbia Pictures, Castle Rock Entertainment, United States of America, 111, 1996-02-16
+58, The Postman, it, null, Belgium, France, Italy, 108, 1994-09-22
+14, Nixon, en, Hollywood Pictures, Cinergi Pictures Entertainment, United States of America, 192, 1995-12-22
+31, Dangerous Minds, en, Hollywood Pictures, Via Rosa Productions, Don Simpson/Jerry Bruckheimer Films, United States of America, 99, 1995-08-11
+23, Assassins, en, Silver Pictures, Canal+, Warner Bros., Dino De Laurentiis Company, Donner/Shuler-Donner Productions, Evansgideon/Lazar, France, United States of America, 132, 1995-10-06
+79, The Juror, en, Columbia Pictures Corporation, United States of America, 118, 1996-02-02
+94, Beautiful Girls, en, Miramax Films, Woods Entertainment, United States of America, 112, 1996-02-09
+19, Ace Ventura: When Nature Calls, en, O Entertainment, Warner Bros., Morgan Creek Productions, United States of America, 90, 1995-11-10
+27, Now and Then, en, New Line Cinema, United States of America, 100, 1995-10-20
+95, Broken Arrow, en, Twentieth Century Fox Film Corporation, WCG Entertainment Productions, Mark Gordon Productions, United States of America, 108, 1996-02-09
+76, Screamers, en, The Movie Network (TMN), Allegro Films, Fuji Eight Company Ltd., Fries Film Group, Super Ecran, Triumph Films, Canada, Japan, United States of America, 108, 1995-09-08
+92, Mary Reilly, en, TriStar Pictures, NFH Productions, United States of America, 104, 1996-02-23
+9, Sudden Death, en, Universal Pictures, Imperial Entertainment, Signature Entertainment, United States of America, 106, 1995-12-22
+57, Home for the Holidays, en, Paramount Pictures, Egg Pictures, PolyGram Filmed Entertainment, United States of America, 103, 1995-11-02
+11, The American President, en, Columbia Pictures, Castle Rock Entertainment, United States of America, 106, 1995-11-17
+2, Jumanji, en, TriStar Pictures, Teitler Film, Interscope Communications, United States of America, 104, 1995-12-15
+39, Clueless, en, Paramount Pictures, United States of America, 97, 1995-07-19
+34, Babe, en, Universal Pictures, Kennedy Miller Productions, Australia, United States of America, 89, 1995-07-18
+65, Bio-Dome, en, Metro-Goldwyn-Mayer (MGM), Motion Picture Corporation of America (MPCA), 3 Arts Entertainment, Weasel Productions, United States of America, 88, 1996-01-12
+44, Mortal Kombat, en, New Line Cinema, Threshold Entertainment, United States of America, 101, 1995-08-18
+85, Angels and Insects, en, Playhouse International Pictures, The Samuel Goldwyn Company, United Kingdom, United States of America, 118, 1995-09-10
+49, When Night Is Falling, en, Alliance Communications Corporation, Canada, 96, 1995-05-05
+21, Get Shorty, en, Jersey Films, Metro-Goldwyn-Mayer (MGM), United States of America, 105, 1995-10-20
+15, Cutthroat Island, en, Le Studio Canal+, Laurence Mark Productions, Metro-Goldwyn-Mayer (MGM), Carolco Pictures, France, Germany, Italy, United States of America, 119, 1995-12-22
+6, Heat, en, Regency Enterprises, Forward Pass, Warner Bros., United States of America, 170, 1995-12-15
+29, The City of Lost Children, fr, Procirep, Constellation Productions, France 3 Cinéma, Claudie Ossard Productions, Eurimages, MEDIA Programme of the European Union, Cofimage 5, Televisión Española (TVE), Tele München Fernseh Produktionsgesellschaft (TMG), Club d'Investissement Média, Canal+ España, Elías Querejeta Producciones Cinematográficas S.L., Centre National de la Cinématographie (CNC), Victoires Productions, Constellation, Lumière Pictures, Canal+, Studio Image, Cofimage 4, Ossane, Phoenix Images, France, Germany, Spain, 108, 1995-05-16
+82, Antonia's Line, nl, Bergen Film, Bard Entertainments, NPS Televisie, Netherlands, United Kingdom, Belgium, 102, 1995-09-12
+1, Toy Story, en, Pixar Animation Studios, United States of America, 81, 1995-10-30
+47, Se7en, en, New Line Cinema, Juno Pix, Cecchi Gori Pictures, United States of America, 127, 1995-09-22
+70, From Dusk Till Dawn, en, A Band Apart, Dimension Films, Los Hooligans Productions, Miramax, United States of America, 108, 1996-01-19
+10, GoldenEye, en, United Artists, Eon Productions, United Kingdom, United States of America, 130, 1995-11-16
+36, Dead Man Walking, en, Havoc, PolyGram Filmed Entertainment, Working Title Films, United States of America, United Kingdom, 122, 1995-12-29
+50, The Usual Suspects, en, Blue Parrot Productions, Bad Hat Harry Productions, United States of America, 106, 1995-07-19
+45, To Die For, en, The Rank Organisation, Columbia Pictures Corporation, United States of America, 106, 1995-05-20
+16, Casino, en, Universal Pictures, Légende Entreprises, Syalis DA, De Fina-Cappa, France, United States of America, 178, 1995-11-22
+25, Leaving Las Vegas, en, United Artists, Intial Productions, United States of America, 112, 1995-10-27
+97, La Haine, fr, Egg Pictures, PolyGram Filmed Entertainment, Canal+, Les Productions Lazennec, La Sept Cinéma, Kasso Inc. Productions, Studio Image, Cofinergie 6, France, 98, 1995-05-31
+81, Things to Do in Denver When You're Dead, en, Miramax Films, United States of America, 116, 1995-12-01
+32, Twelve Monkeys, en, Universal Pictures, Atlas Entertainment, Classico, United States of America, 129, 1995-12-29
+18, Four Rooms, en, Miramax Films, A Band Apart, United States of America, 98, 1995-12-09
+17, Sense and Sensibility, en, Columbia Pictures Corporation, Mirage Enterprises, United Kingdom, United States of America, 136, 1995-12-13
+89, Nick of Time, en, Paramount Pictures, United States of America, 90, 1995-11-22
+62, Mr. Holland's Opus, en, Hollywood Pictures, The Charlie Mopic Company, PolyGram Filmed Entertainment, Interscope Communications, United States of America, 137, 1995-12-29
+22, Copycat, en, Regency Enterprises, New Regency Pictures, United States of America, 124, 1995-10-27
+68, French Twist, fr, Renn Productions, Les Films Flam, TF1 Films Production, Canal+, France, 95, 1995-02-08
+
+---------- MENU ---------
+
+1: View Table Contents
+2: Search by Movie ID
+3: Insert by Movie ID
+4: Exit the Program
+
+Enter your choice (1, 2, 3, 4): 
+1
+Would you like to see MOVIES Table? (Yes/No)
+dkf
+Would you like to see RATINGS Table? (Yes/No)
+sldk
+
+INVALID RESPONSE: PLEASE SELECT MENU AGAIN
+
+
+---------- MENU ---------
+
+1: View Table Contents
+2: Search by Movie ID
+3: Insert by Movie ID
+4: Exit the Program
+
+Enter your choice (1, 2, 3, 4): 
+2
+Enter the Movie ID: 
+42149
+
+INVALID MOVIE ID '42149': PLEASE SELECT MENU AGAIN.
+
+
+---------- MENU ---------
+
+1: View Table Contents
+2: Search by Movie ID
+3: Insert by Movie ID
+4: Exit the Program
+
+Enter your choice (1, 2, 3, 4): 
+2
+Enter the Movie ID: 
+37
+
+---DISPLAYING MOVIE ATTRIBUTES---
+
+37, Across the Sea of Time, en, Sony New Technologies, United States of America, 51, 1995-10-20
+
+---DISPLAYING AVERAGE RATING---
+
+Average Rating for Movie ID '37': 2.0
+
+---------- MENU ---------
+
+1: View Table Contents
+2: Search by Movie ID
+3: Insert by Movie ID
+4: Exit the Program
+
+Enter your choice (1, 2, 3, 4): 
+3
+Enter the path to movies.csv: 
+dlf
+Enter the path to ratings.csv: 
+dfdf
+Enter the Movie ID: 
+313
+
+INVALID FILE PATH '313': PLEASE SELECT MENU AGAIN.
+
+
+---------- MENU ---------
+
+1: View Table Contents
+2: Search by Movie ID
+3: Insert by Movie ID
+4: Exit the Program
+
+Enter your choice (1, 2, 3, 4): 
+3
+Enter the path to movies.csv: 
+/Users/seohaelee/Documents/GMU/SPRING 24/CS 450/movies.csv
+Enter the path to ratings.csv: 
+/Users/seohaelee/Documents/GMU/SPRING 24/CS 450/ratings.csv
+Enter the Movie ID: 
+222
+
+INVALID MOVIE ID '222': PLEASE SELECT MENU AGAIN.
+
+
+---------- MENU ---------
+
+1: View Table Contents
+2: Search by Movie ID
+3: Insert by Movie ID
+4: Exit the Program
+
+Enter your choice (1, 2, 3, 4): 
+3
+Enter the path to movies.csv: 
+/Users/seohaelee/Documents/GMU/SPRING 24/CS 450/movies.csv
+Enter the path to ratings.csv: 
+/Users/seohaelee/Documents/GMU/SPRING 24/CS 450/ratings.csv
+Enter the Movie ID: 
+101
+
+---DISPLAYING NEWLY ADDED MOVIE---
+
+Movie ID: 101
+Total Number of Ratings: 17
+
+---------- MENU ---------
+
+1: View Table Contents
+2: Search by Movie ID
+3: Insert by Movie ID
+4: Exit the Program
+
+Enter your choice (1, 2, 3, 4): 
+4
+
+Exit the Program.
+
